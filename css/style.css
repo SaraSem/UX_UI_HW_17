@@ -1,0 +1,15 @@
+* { outline: 1px solid red; }
+
+.navigation {
+    background-color: purple;
+
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+nav {
+    background-color: yellow; /* This sets the background color to dark gray */
+    padding: 10px;
+    text-align: center;
+}
